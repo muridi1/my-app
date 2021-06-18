@@ -2,8 +2,8 @@ interface PlacesProps {
     title: string;
     placeName: string;
     countryName: string;
-    image: string;
-    mapLink: string;
+    //image: string;
+    //mapLink: string;
     text: string;
   }
   
