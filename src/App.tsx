@@ -12,6 +12,7 @@ function App() {
     <>
       <Header />
       <MainContent />
+      <Footer />
     </>
     // <div className="App">
     //   <header className="App-header">
